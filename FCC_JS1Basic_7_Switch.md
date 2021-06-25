@@ -34,7 +34,7 @@
 
 ```
 
-[4.Replacing If Else Chains with Switch] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)
+[4.Replacing If Else Chains with Switch](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)
 ```js
 // Finish and Paste your solution here
 
