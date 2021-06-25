@@ -56,7 +56,7 @@
 
 
 ```
-[5.Nesting For Loops] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)
+[5.Nesting For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)
 ```js
 // Finish and Paste your solution here
 
