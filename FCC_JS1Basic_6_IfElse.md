@@ -98,7 +98,7 @@
 
 ```
 
-[7.Comparison with the Greater Than Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)
+[7.Comparison with the Greater Than Or Equal Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator)
 ```js
 // Finish and Paste your solution here
 
