@@ -15,7 +15,7 @@
 - FreeCodeCamp_Switch  : 7ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_7_Switch.md)
 
 `Loop`
-- CC_JSPart1_Loop : 5ข้อ : Lab ข้อ 6-10 [link](https://docs.google.com/presentation/d/1B2hhlHcbdfdjGM_R4tLPgcJmc31wpjPCvgE-jtlkxtE/edit#slide=id.ge1dca10714_0_58)
+- CC_JSPart1_Loop : 5ข้อ : Lab ข้อ 6-10 [link](https://docs.google.com/presentation/d/1cV72x-aXekzFT0OoXy2QXXHeId7D5l_Rq4YKRpu6Jeo/edit#slide=id.ge1100e5366_0_72)
 
 `Function`
 
