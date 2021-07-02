@@ -1,14 +1,14 @@
 # CC9_Exercise (เฉพาะ JavaScript)
 
 
-## Week1 
+## Week1 : Basic (36ข้อ)
 
 - FreeCodeCamp_Variable : 7ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_1_Variable.md)
 - FreeCodeCamp_Number : 14ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_2_Number.md)
 - FreeCodeCamp_String : 15ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_3_String.md)
 
 
-## Week2 
+## Week2 : Loop,Condition,Function (ุ54-60ข้อ)
 
 `Conditional` ใช้ความรู้เรื่องฟังก์ชันนิดหน่อย
 - FreeCodeCamp_If-else : 18ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_6_IfElse.md)
