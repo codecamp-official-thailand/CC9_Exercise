@@ -1,4 +1,5 @@
-# Prerequisite
+# Array with Functional Programming (14ข้อ)
+# Prerequisite 
 - Prototype (ข้อ2,4)
 
 ## MAP
