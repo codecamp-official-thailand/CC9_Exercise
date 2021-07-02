@@ -27,3 +27,16 @@
 - CC_JSPart2_Arrow Function : Lab ข้อที่เหลือ [link](https://docs.google.com/presentation/d/1B2hhlHcbdfdjGM_R4tLPgcJmc31wpjPCvgE-jtlkxtE/edit#slide=id.ge200a3d64b_0_0)
 
 
+## Week3 : Object and Array (64ข้อ)
+
+`Object` `32ข้อ`
+- FCC_Object1_Basic : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Object1_Basic.md) พื้นฐาน(13ข้อ)
+- FCC_Object2_ES6 : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Object2_Basic.md) การเขียน ShortHand(2ข้อ)
+- FCC_Object3_BD.St : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Object3_BasicData.md) โครงสร้างข้อมูล(8ข้อ)
+- FCC_Objcet4_OOP : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Object4_OOP.md) การเขียนโปรแกรมเชิงวัตถุ(9ข้อ)
+
+`array` `32ข้อ`
+- FCC_Array1_Basic : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Array1_Basic.md) พื้นฐาน(10ข้อ)
+- FCC_Array2_BD.St : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Array2_BasicData.md) โครงสร้างข้อมูล,loop,method(10ข้อ)
+- FCC_Array3_FP : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Array3_FP.md) Method ต่างๆ (12ข้อ)
+
