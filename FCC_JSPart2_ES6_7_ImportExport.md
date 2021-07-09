@@ -41,7 +41,7 @@
 ```
 
 # Default
-[5.Create an Export Fallback with export default] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
+[5.Create an Export Fallback with export default](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
 ```js
 // Finish and Paste your solution here
 
@@ -49,7 +49,7 @@
 
 
 ```
-[6.Import a Default Export] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export)
+[6.Import a Default Export](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export)
 ```js
 // Finish and Paste your solution here
 
