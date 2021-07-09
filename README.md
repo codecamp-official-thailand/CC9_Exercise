@@ -42,9 +42,11 @@
 
 
 # Week4 : เก็บตก Basic + ES6
+`Variable ES6`  5 ข้อ
+- FCC_ES6_Variable : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JSPart2_ES6_1_DeclareVariable.md)  
 
 `Basic_loop` 8ข้อ
-- FCC_Basic_Loop : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_10_Loop.md) 8ข้อ
+- FCC_Basic_Loop : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_10_Loop.md)
 
 `Basic_Application` 10ข้อ
 - FCC_Basic_Problem : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Part1_11_Application.md)
@@ -57,4 +59,8 @@
 
 `Import-Export` 6 ข้อ
 - FCC_ES6_Import-Export : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JSPart2_ES6_7_ImportExport.md)
+
+## Week5 : Basic Algorithm (Soon)
+## Week 6 : OOP_Concept : Class,Prototype,Inheritence (Soon)
+## Week 7 : FunctionalPrograming Concept & Promise (Soon)
 
