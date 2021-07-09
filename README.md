@@ -40,3 +40,21 @@
 - FCC_Array2_BD.St : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Array2_BasicData.md) โครงสร้างข้อมูล,loop,method(10ข้อ)
 - FCC_Array3_FP : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Array3_FP.md) Method ต่างๆ (12ข้อ)
 
+
+# Week4 : เก็บตก Basic + ES6
+
+`Basic_loop` 8ข้อ
+- FCC_Basic_Loop : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_10_Loop.md) 8ข้อ
+
+`Basic_Application` 10ข้อ
+- FCC_Basic_Problem : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Part1_11_Application.md)
+
+`ES6_Rest,Spread` 2 ข้อ
+- FCC_Rest_Spread : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JSPart2_ES6_4_RestSpreadDeStruc.md)
+
+`ES6_Destructuring` 8 ข้อ
+- FCC_Destructuring [link1](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JSPart2_ES6_5_Destructuring.md)[link2](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_BD.St_Destructuring.md)
+
+`Import-Export` 6 ข้อ
+- FCC_ES6_Import-Export : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JSPart2_ES6_7_ImportExport.md)
+
