@@ -66,7 +66,7 @@
 ```
 
 # Do while
-[1.Iterate with JavaScript Do...While Loops] (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops)
+[1.Iterate with JavaScript Do...While Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops)
 ```js
 // Finish and Paste your solution here
 
