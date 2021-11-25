@@ -1,14 +1,14 @@
 # CC9_Exercise (เฉพาะ JavaScript)
 
 
-## Week1 : Basic (36ข้อ)
+## Sprint1 : Basic (36ข้อ)
 
 - FreeCodeCamp_Variable : 7ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_1_Variable.md)
 - FreeCodeCamp_Number : 14ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_2_Number.md)
 - FreeCodeCamp_String : 15ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_3_String.md)
 
 
-## Week2 : Loop,Condition,Function (ุ54-60ข้อ)
+## Sprint2 : Loop,Condition,Function (54-60ข้อ)
 
 `Conditional` ใช้ความรู้เรื่องฟังก์ชันนิดหน่อย
 - FreeCodeCamp_If-else : 18ข้อ [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JS1Basic_6_IfElse.md)
@@ -27,7 +27,7 @@
 - CC_JSPart2_Arrow Function : Lab ข้อที่เหลือ [link](https://docs.google.com/presentation/d/1B2hhlHcbdfdjGM_R4tLPgcJmc31wpjPCvgE-jtlkxtE/edit#slide=id.ge200a3d64b_0_0)
 
 
-## Week3 : Object and Array (64ข้อ)
+## Sprint3 : Object and Array (64ข้อ)
 
 `Object` `32ข้อ`
 - FCC_Object1_Basic : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Object1_Basic.md) พื้นฐาน(13ข้อ)
@@ -41,7 +41,7 @@
 - FCC_Array3_FP : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_Array3_FP.md) Method ต่างๆ (12ข้อ)
 
 
-# Week4 : เก็บตก Basic + ES6
+# Sprint4 : เก็บตก Basic + ES6
 `ES6_variable`  5 ข้อ
 - FCC_ES6_Variable : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JSPart2_ES6_1_DeclareVariable.md)  
 
@@ -61,7 +61,7 @@
 - FCC_ES6_Import-Export : [link](https://github.com/codecamp-official-thailand/CC9_Exercise/blob/main/FCC_JSPart2_ES6_7_ImportExport.md)
 
 *Checkpoint : เก็บ Module Basic กับ ES6 ให้ครบ (ยกเว้น ES6 ที่เป็น Class,Getter-Setter,Promise รวม 6ข้อ)
-## Week5 : Basic Algorithm (Soon)
-## Week 6 : OOP_Concept : Class,Prototype,Inheritence (Soon)
-## Week 7 : FunctionalPrograming Concept & Promise (Soon)
+## Sprint5 : Basic Algorithm 
+## Sprint6 : OOP_Concept : Class,Prototype,Inheritence 
+## Sprint7 : FunctionalPrograming Concept & Promise 
 
